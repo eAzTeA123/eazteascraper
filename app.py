@@ -205,4 +205,4 @@ def auto_stream():
 
 
 if __name__ == '__main__':
-    app.run(port=7860)
+    app.run()
