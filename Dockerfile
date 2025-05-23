@@ -4,7 +4,7 @@ WORKDIR /app
 
 RUN apt-get update && apt-get install -y git build-essential && rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/deinname/pyarmor-app.git .
+RUN git clone https://github.com/eAzTeA123/eazteascraper.git .
 
 RUN pip install --no-cache-dir httpx h2 flask requests
 
