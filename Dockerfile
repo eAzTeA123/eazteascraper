@@ -1,14 +1,15 @@
 FROM python:3.10-slim
 
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    gcc python3-dev \
+    && rm -rf /var/lib/apt/lists/*
+
 WORKDIR /app
 
-RUN apt-get update && apt-get install -y git build-essential && rm -rf /var/lib/apt/lists/*
+COPY . .
 
-RUN git clone https://github.com/eAzTeA123/eazteascraper.git .
+RUN pip install --no-cache-dir -r requirements.txt flask httpx requests
 
-RUN pip install --no-cache-dir httpx h2 flask requests
+EXPOSE 7860
 
-ENV PYARMOR_RUNTIME_PATH=/app/pyarmor_runtime_00000
-
-# Starte deine App
-CMD ["python", "main.py"]
+CMD python -c "from app import app as application; application.run(host='0.0.0.0', port=7860, threaded=True)"
