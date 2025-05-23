@@ -16,4 +16,4 @@ RUN pip install flask httpx h2 gunicorn requests
 
 EXPOSE 7860
 
-CMD ["gunicorn", "--workers", "5", "--worker-class", "gthread", "--threads", "4", "--bind", "0.0.0.0:7860", "proxy:app"]
+CMD ["gunicorn", "--workers", "5", "--worker-class", "gthread", "--threads", "4", "--bind", "0.0.0.0:7860", "app:app"]
