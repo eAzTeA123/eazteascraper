@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ARABIA",(ALGERIA) CNA TV |D
+#EXTVLCOPT:http-origin=http://oha.to
+#EXTVLCOPT:http-referrer=http://oha.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://oha.to/play/907894234/index.m3u8
+
+#EXTINF:-1 group-title="ARABIA",(ALGERIA) EL BILAD TV |D
+#EXTVLCOPT:http-origin=http://oha.to
+#EXTVLCOPT:http-referrer=http://oha.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://oha.to/play/1057827735/index.m3u8
