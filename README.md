@@ -22,4 +22,4 @@ Note: To update the App for new changes, click on Settings then click on Factory
 
 
 
-(Description from the best https://github.com/pigzillaaaaa/daddylive)
+(Description & Idea from the best [pigzillaaaaa](https://github.com/pigzillaaaaa))
