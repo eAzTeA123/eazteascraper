@@ -12,6 +12,8 @@ RUN apt-get update && apt-get install -y \
 
 RUN git clone https://github.com/eAzTeA123/eazteascraper .
 
-RUN pip install flask curl-cffi requests gunicorn httpx h2
+RUN pip install flask httpx h2 gunicorn requests
 
-CMD ["gunicorn", "--workers", "5", "--worker-class", "gthread", "--threads", "4", "--bind", "app:app"]
+EXPOSE 7860
+
+CMD ["gunicorn", "--workers", "5", "--worker-class", "gthread", "--threads", "4", "--bind", "0.0.0.0:7860", "proxy:app"]
