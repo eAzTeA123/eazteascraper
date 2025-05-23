@@ -1,0 +1,2 @@
+# eazteascraper
+Tool for IPTV
