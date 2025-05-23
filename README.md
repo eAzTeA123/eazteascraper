@@ -12,4 +12,11 @@ Channels playlist is accessible via: https://username-myapp.hf.space/playlist/ch
 Events playlist is accessible via: https://username-myapp.hf.space/playlist/events. (Refresh playlist to update)
 Enjoy!
 Note: To update the App for new changes, click on Settings then click on Factory rebuild.
+
+You can also launch this app on https://render.com/. by forking this repo. 
+
+
+
+
+
 (Description from the best https://github.com/pigzillaaaaa/daddylive)
