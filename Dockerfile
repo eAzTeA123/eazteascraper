@@ -14,4 +14,4 @@ RUN git clone https://github.com/eAzTeA123/eazteascraper .
 
 RUN pip install flask curl-cffi requests gunicorn httpx h2
 
-CMD ["gunicorn", "app:app"]
+CMD ["gunicorn", "--workers", "5", "--worker-class", "gthread", "--threads", "4", "--bind", "app:app"]
