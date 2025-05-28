@@ -1,12 +1,11 @@
-# IPTV LINK SCRAPER
+# 📡 eAzTea Scraper – Deploy & Use Guide
 
-Sign up to https://huggingface.co/.
-
-In the top‑right corner, click the ➕ icon → New Space.
-Name: enter myapp (or any name you prefer).
-SDK: choose Docker
-Visibility: select Public
-Click Create Space.
+🧩 Step-by-Step Deployment on Render
+      🔐 Sign in to Render.com (Create an account if you don’t have one).
+      
+      ➕ Click "New Project" → then select "Web Service".
+      
+      🔗 Under "Source", choose Public Git Repository and paste this repo link: https://github.com/eAzTeA123/eazteascraper
 
 In the Files section, upload the Dockerfile, the app.so and the requirements.txt from this repo, commit then wait for it to build, start and run.
 Click Embed this Space. It will show you the url of the space. Visit that url. If you see a "eazteascraper is running" then you are good to go.
