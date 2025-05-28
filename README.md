@@ -6,7 +6,10 @@
    - ➕ Click "New Project" → then select "Web Service".
    - 🔗 Under "Source", choose Public Git Repository and paste this repo link: https://github.com/eAzTeA123/eazteascraper
    - 🏷️ Name your project – this name will be used in the final URL.
-   - 🌍 Under Region, choose: Frankfurt (EU Central)
+   - 🌍 Under Region, choose: Frankfurt (EU Central) 
+   - ⚙️ Set Instance Type to: Free
+   - 🚀 Scroll down and click: "Deploy Web Service" 
+   
 
 > [!IMPORTANT]
 > Get Your Deployment URL
