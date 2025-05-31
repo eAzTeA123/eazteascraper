@@ -3,5 +3,4 @@ h2
 flask
 requests
 flask_caching
-flask[async]
-asyncio
+os
