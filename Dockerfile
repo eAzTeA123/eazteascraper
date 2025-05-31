@@ -8,7 +8,7 @@ WORKDIR /app
 
 COPY . .
 
-RUN pip install --no-cache-dir -r requirements.txt flask httpx requests flask_caching
+RUN pip install --no-cache-dir -r requirements.txt flask httpx requests
 
 EXPOSE 7860
 
