@@ -19,7 +19,7 @@
 
 
 ## 🔄 Get Ur Playlist:
-   - 👉 Use https://yourprogramname.onrender.com/playlist.m3u8 in your Browser to get ur Playlist.
+   - 👉 Use https://yourprogramname.onrender.com/playlist.m3u8 in your Browser to get ur Playlist or use the Link in your IPTV Programm
   
 
 ## 📺 Use the Playlist in IPTV Apps
