@@ -1,4 +1,4 @@
-# 📡 eAzTea Scraper – Deploy & Use Guide
+# 📡 Oha Proxy – Deploy & Use Guide
 
 ## 🧩 Step-by-Step Deployment on Render
 
