@@ -8,8 +8,8 @@ WORKDIR /app
 
 COPY . .
 
-RUN pip install --no-cache-dir -r requirements.txt flask httpx requests
+RUN pip install --no-cache-dir -r requirements.txt
 
-EXPOSE 7860
+EXPOSE 5000
 
-CMD python -c "from app import app as application; application.run(host='0.0.0.0', port=7860, threaded=True)"
+CMD python -c "from app import app as application; application.run(host='0.0.0.0', port=5000, threaded=True)"
