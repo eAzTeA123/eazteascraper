@@ -13,13 +13,13 @@
 
 > [!IMPORTANT]
 > Get Your Deployment URL
->After deploying, copy the URL shown in the logs (e.g., https://yourname.onrender.com)
+>After deploying, copy the URL shown in the logs (e.g., https://yourprogramname.onrender.com)
 
 >Wait until the project is fully started and your Render-link will show "eazteascraper is running!" on the main page✅
 
 
 ## 🔄 Get Ur Playlist:
-   - 👉 Use https://yourname.onrender.com/playlist.m3u8 in your Browser to get ur Playlist.
+   - 👉 Use https://yourprogramname.onrender.com/playlist.m3u8 in your Browser to get ur Playlist.
   
 
 ## 📺 Use the Playlist in IPTV Apps
