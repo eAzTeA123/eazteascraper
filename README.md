@@ -15,7 +15,7 @@
 > Get Your Deployment URL
 >After deploying, copy the URL shown in the logs (e.g., https://yourname.onrender.com)
 
->Wait until the project is fully started ✅
+>Wait until the project is fully started and your Render-link will show "eazteascraper is running!" on the main page✅
 
 
 ## 🔄 Get Ur Playlist:
