@@ -18,12 +18,8 @@
 >Wait until the project is fully started ✅
 
 
-## 🔄 Connect to the Frontend Tool
-1. Go to this tool:.
-   - 👉 https://eaztea-m3u8getter.vercel.app/
-   - In the input field that says https://username-myapp.hf.space/ 🔁 Replace it with the URL you copied from Render (e.g., https://yourname.onrender.com/)
-   - Click Fetch from GitHub 
-   - Then click "Process M3U8" ⚙️
+## 🔄 Get Ur Playlist:
+   - 👉 Use https://yourname.onrender.com/playlist.m3u8 in your Browser to get ur Playlist.
   
 
 ## 📺 Use the Playlist in IPTV Apps
