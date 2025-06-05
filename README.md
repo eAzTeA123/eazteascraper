@@ -17,24 +17,6 @@
 
 >Wait until the project is fully started and your Render-link will show "eazteascraper is running!" on the main page✅
 
-
-## 🔄 Keep Your Render Website Always Online with Uptime Robot
-
-To prevent your Render web app from going to sleep due to inactivity, you can use Uptime Robot to ping it at regular intervals. This keeps the app “awake” and responsive at all times.
-
-✅ Step-by-Step Guide
-	1.	Sign Up / Log In to Uptime Robot
-Visit uptimerobot.com and create an account or log in.
-	2.	Create a New Monitor
-	-	Click on the + New Monitor button in the top right corner.
-	3.	Configure the Monitor
-	-  Monitor Type: Select HTTP(s)
-	-	Friendly Name: (e.g., My Render App)
-	-	URL: Paste the public URL of your Render web app (e.g., https://my-app.onrender.com)
-	4.	Create the Monitor
-	-	Scroll down and click the Create Monitor button.
-
-
 ## 🔄 Get Ur Playlist:
    - 👉 Use https://yourprogramname.onrender.com/playlist.m3u8 in your Browser to get ur Playlist or use the Link in your IPTV Programm
   
